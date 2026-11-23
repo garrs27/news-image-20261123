@@ -1,0 +1,518 @@
+{
+  "date_line": "MONDAY 23 NOVEMBER 2026",
+  "paper": "THE WORLD IN ONE IMAGE",
+  "leads": [
+    {
+      "n": 1,
+      "region": "ANTALYA, TÜRKIYE",
+      "field": "CLIMATE",
+      "headline": "COP31 ENDS WITH NO CLIMATE DEAL",
+      "summary": "After 48 hours of overtime talks, nearly 200 countries left the UN climate summit in Türkiye with no overarching agreement. The EU and others refused any deal that did not name a phase-out of fossil fuels.",
+      "status": "CONFIRMED",
+      "source": "BBC + XINHUA",
+      "art": "cop31"
+    },
+    {
+      "n": 2,
+      "region": "WASHINGTON, USA",
+      "field": "POLITICS",
+      "headline": "DEMOCRATS CLINCH 258 HOUSE SEATS",
+      "summary": "Democrats secured at least 258 seats in the US House of Representatives, the largest majority for either party since 1992, after the last undecided races were called, a net gain of 44 seats.",
+      "status": "CONFIRMED",
+      "source": "ASSOCIATED PRESS",
+      "art": "capitol"
+    },
+    {
+      "n": 3,
+      "region": "DYMER, UKRAINE",
+      "field": "WAR",
+      "headline": "RUSSIAN STRIKES KILL 11 NEAR KYIV",
+      "summary": "A Russian drone hit a five-storey apartment block in Dymer, in the Kyiv region. Rescuers pulled a boy aged 7 alive from the rubble; a strike on a supermarket in Vyshneve killed two more people.",
+      "status": "CONFIRMED",
+      "source": "AP + BBC",
+      "art": "kyiv"
+    }
+  ],
+  "tiles": [
+    {
+      "n": 4,
+      "region": "BRUSSELS",
+      "field": "WAR",
+      "headline": "NATO council meets over missiles in Poland",
+      "summary": "3 Russian Kh-101 missiles fell in Poland on 20 Nov; Rutte: defend every cm.",
+      "status": "CONFIRMED",
+      "source": "REUTERS"
+    },
+    {
+      "n": 5,
+      "region": "WASHINGTON / TEHRAN",
+      "field": "DIPLOMACY",
+      "headline": "Trump 'inclined' to resume Iran conflict",
+      "summary": "Trump: inclined to resume military conflict if no Iran deal by New Year.",
+      "status": "REPORTED",
+      "source": "ECONOMIC TIMES + FT"
+    },
+    {
+      "n": 6,
+      "region": "UNITED STATES",
+      "field": "SCIENCE",
+      "headline": "Mathematician and AI claim Riemann proof",
+      "summary": "Anthropic's Alpöge and Claude claim a formal proof, 17M lines of code.",
+      "status": "CLAIM",
+      "source": "ITHOME"
+    },
+    {
+      "n": 7,
+      "region": "BENGHAZI, LIBYA",
+      "field": "WAR",
+      "headline": "Zelenskyy: sea drones sank Russian corvette",
+      "summary": "Corvette Merkury sunk at Benghazi, 1,600 km from Ukraine.",
+      "status": "CLAIM",
+      "source": "ZELENSKYY VIA INSHORTS"
+    },
+    {
+      "n": 8,
+      "region": "BANTEN, INDONESIA",
+      "field": "DISASTER",
+      "headline": "Candy factory fire kills 24, dozens missing",
+      "summary": "24 body bags recovered; about 30 workers still unaccounted for.",
+      "status": "CONFIRMED",
+      "source": "XINHUA"
+    },
+    {
+      "n": 9,
+      "region": "SEOUL",
+      "field": "MARKETS",
+      "headline": "KOSPI plunges in global AI selloff",
+      "summary": "KOSPI fell about 5% to a 10-month low; minister pledged stabilisation.",
+      "status": "CONFIRMED",
+      "source": "UDN + FEEDCAST"
+    },
+    {
+      "n": 10,
+      "region": "TAIPEI",
+      "field": "MARKETS",
+      "headline": "Taiwan stocks swing 1,578 points in a day",
+      "summary": "Index fell 591 points then closed up; TSMC +2%; short-sale ban from today.",
+      "status": "CONFIRMED",
+      "source": "ETTODAY + CNYES"
+    },
+    {
+      "n": 11,
+      "region": "NEW YORK",
+      "field": "SPORT",
+      "headline": "Skubal signs record $450M deal with the Mets",
+      "summary": "Nine-year, $450M Mets contract is the largest ever for a pitcher.",
+      "status": "REPORTED",
+      "source": "AP + ESPN"
+    },
+    {
+      "n": 12,
+      "region": "ITURI, DR CONGO",
+      "field": "HEALTH",
+      "headline": "WHO chief pleads for peace amid Ebola fight",
+      "summary": "Outbreak at 11,613 cases, 5,678 deaths; fighting disrupts response.",
+      "status": "REPORTED",
+      "source": "AFP"
+    },
+    {
+      "n": 13,
+      "region": "LIVERPOOL",
+      "field": "SPORT",
+      "headline": "Liverpool thrash 10-man Man United 4-0",
+      "summary": "Yoro sent off after 8 minutes; 4 scorers in Pochettino's first match.",
+      "status": "CONFIRMED",
+      "source": "REUTERS"
+    },
+    {
+      "n": 14,
+      "region": "NEW DELHI",
+      "field": "DIPLOMACY",
+      "headline": "Nepal PM Balen Shah welcomed in Delhi",
+      "summary": "Ceremonial welcome at Rashtrapati Bhavan; received by PM Modi.",
+      "status": "CONFIRMED",
+      "source": "INSHORTS"
+    },
+    {
+      "n": 15,
+      "region": "EAST ASIA",
+      "field": "CYBER",
+      "headline": "AI framework 'Cairn' used in university hacks",
+      "summary": "AI agent found and exploited a MONAI Label zero-day in 11 minutes.",
+      "status": "REPORTED",
+      "source": "ITHOME"
+    },
+    {
+      "n": 16,
+      "region": "BELGIUM",
+      "field": "TRANSPORT",
+      "headline": "Belgian airports face shutdown in protest",
+      "summary": "Airports face complete shutdown in nationwide austerity protest.",
+      "status": "REPORTED",
+      "source": "NEWS MEDIA HOUSE"
+    },
+    {
+      "n": 17,
+      "region": "MARS / NASA",
+      "field": "SPACE",
+      "headline": "NASA reports trouble on two Mars missions",
+      "summary": "Perseverance has a comms anomaly; Odyssey may be nearing its end.",
+      "status": "REPORTED",
+      "source": "TECHNEWS"
+    }
+  ],
+  "timeline": [
+    {
+      "t": "01:15",
+      "x": "PBOC sets yuan fixing at 6.7120"
+    },
+    {
+      "t": "02:22",
+      "x": "Drones hit 2 Russian oil plants"
+    },
+    {
+      "t": "04:02",
+      "x": "Ukraine's deep-strike briefing"
+    },
+    {
+      "t": "06:27",
+      "x": "Dymer death toll reaches 11"
+    },
+    {
+      "t": "07:28",
+      "x": "153-drone attack tally published"
+    },
+    {
+      "t": "07:32",
+      "x": "Zelenskyy confirms Merkury sinking"
+    }
+  ],
+  "date_check": [
+    {
+      "x": "Trump-Putin-Xi Shenzhen summit",
+      "d": "19 NOV"
+    },
+    {
+      "x": "Russian missiles fell in Poland (meeting today: No. 4)",
+      "d": "20 NOV"
+    },
+    {
+      "x": "OpenAI released GPT-6.2 Astra and Sol",
+      "d": "17 NOV"
+    },
+    {
+      "x": "Nvidia CEO Jensen Huang stepped down",
+      "d": "12 NOV"
+    },
+    {
+      "x": "US lost measles elimination status",
+      "d": "17 NOV"
+    }
+  ],
+  "map_pins": [
+    {
+      "n": 1,
+      "lon": 31,
+      "lat": 41
+    },
+    {
+      "n": 2,
+      "lon": -77,
+      "lat": 39
+    },
+    {
+      "n": 3,
+      "lon": 30,
+      "lat": 50
+    },
+    {
+      "n": 4,
+      "lon": 4,
+      "lat": 51
+    },
+    {
+      "n": 7,
+      "lon": 20,
+      "lat": 32
+    },
+    {
+      "n": 8,
+      "lon": 106,
+      "lat": -6
+    },
+    {
+      "n": 9,
+      "lon": 127,
+      "lat": 37
+    },
+    {
+      "n": 10,
+      "lon": 121,
+      "lat": 25
+    },
+    {
+      "n": 12,
+      "lon": 29,
+      "lat": 2
+    },
+    {
+      "n": 13,
+      "lon": -3,
+      "lat": 53
+    }
+  ],
+  "index": [
+    {
+      "n": 18,
+      "x": "Nasdaq futures jump 3% after worst week in 6 years",
+      "s": "R",
+      "src": "HINDU BL"
+    },
+    {
+      "n": 19,
+      "x": "Gold rebounds above $3,550 from a 14-month low",
+      "s": "R",
+      "src": "GRAND HERALD"
+    },
+    {
+      "n": 20,
+      "x": "South Korea's yearly exports pass $1 trillion, a first",
+      "s": "C",
+      "src": "KOREA CUSTOMS"
+    },
+    {
+      "n": 21,
+      "x": "Korea chip exports surge 294% in November's first 20 days",
+      "s": "R",
+      "src": "UDN"
+    },
+    {
+      "n": 22,
+      "x": "Taiwan October export orders hit a record $123.8 billion",
+      "s": "C",
+      "src": "MOEA"
+    },
+    {
+      "n": 23,
+      "x": "Data-centre suppliers demand price rises of up to 45%",
+      "s": "R",
+      "src": "UDN"
+    },
+    {
+      "n": 24,
+      "x": "Anthropic cash tops 4 tech giants after record IPO",
+      "s": "R",
+      "src": "TECHNEWS"
+    },
+    {
+      "n": 25,
+      "x": "Trump urges Nvidia board to rehire Jensen Huang",
+      "s": "R",
+      "src": "UDN"
+    },
+    {
+      "n": 26,
+      "x": "US probes alleged Chinese spy linked to Nvidia",
+      "s": "R",
+      "src": "BLOOMBERG"
+    },
+    {
+      "n": 27,
+      "x": "OpenRouter suspends 3 AI providers after breaches",
+      "s": "R",
+      "src": "ITHOME"
+    },
+    {
+      "n": 28,
+      "x": "KPMG Canada hacked; client tax data stolen",
+      "s": "R",
+      "src": "GLOBE AND MAIL"
+    },
+    {
+      "n": 29,
+      "x": "Russian group Cold Relic impersonates staff to phish",
+      "s": "R",
+      "src": "GOOGLE"
+    },
+    {
+      "n": 30,
+      "x": "Hackers hit US ports with thousands of attacks a day",
+      "s": "R",
+      "src": "UDN"
+    },
+    {
+      "n": 31,
+      "x": "FBI blames North Korea for record Binance theft; denial",
+      "s": "CL",
+      "src": "PTS"
+    },
+    {
+      "n": 32,
+      "x": "Iran says it downed a US MQ-9 drone over Hormuz",
+      "s": "CL",
+      "src": "IRAN VIA INSHORTS"
+    },
+    {
+      "n": 33,
+      "x": "Iranian strike injures two in Bahrain; Saudis condemn",
+      "s": "R",
+      "src": "JAPAN TODAY"
+    },
+    {
+      "n": 34,
+      "x": "New report calls Gaza a toxic wasteland",
+      "s": "R",
+      "src": "NEWS MEDIA HOUSE"
+    },
+    {
+      "n": 35,
+      "x": "Shekel among world's worst currencies this year",
+      "s": "R",
+      "src": "NEWS MEDIA HOUSE"
+    },
+    {
+      "n": 36,
+      "x": "France's two front-runners both question Ukraine aid",
+      "s": "R",
+      "src": "UDN"
+    },
+    {
+      "n": 37,
+      "x": "PM Burnham to defend landmark EU deal to MPs",
+      "s": "R",
+      "src": "BBC"
+    },
+    {
+      "n": 38,
+      "x": "EU signs Indonesia trade deal cutting most tariffs",
+      "s": "R",
+      "src": "WSJ"
+    },
+    {
+      "n": 39,
+      "x": "Court bars BYD SUV from EU as Land Rover copy",
+      "s": "C",
+      "src": "FT"
+    },
+    {
+      "n": 40,
+      "x": "Ukraine drones set fires at 2 Russian oil plants",
+      "s": "C",
+      "src": "REUTERS"
+    },
+    {
+      "n": 41,
+      "x": "Russia fires 153 drones at Ukraine; 134 downed",
+      "s": "C",
+      "src": "UKRAINE AF"
+    },
+    {
+      "n": 42,
+      "x": "Odesa blackout: schools go remote until 27 Nov",
+      "s": "R",
+      "src": "UKRAINE MONITOR"
+    },
+    {
+      "n": 43,
+      "x": "US envoy: NATO-style guarantees for Ukraine possible",
+      "s": "R",
+      "src": "WASHINGTON POST"
+    },
+    {
+      "n": 44,
+      "x": "Indonesia seizes ship with 405 t of missile chemical",
+      "s": "C",
+      "src": "INDONESIAN NAVY"
+    },
+    {
+      "n": 45,
+      "x": "India stays 3rd in Asia Power Index, 40.5 points",
+      "s": "C",
+      "src": "LOWY INSTITUTE"
+    },
+    {
+      "n": 46,
+      "x": "Taiwan candidate accused of taking Chinese funds",
+      "s": "CL",
+      "src": "CNA"
+    },
+    {
+      "n": 47,
+      "x": "Report: Hong Kong Tai Po fire was avoidable, a year on",
+      "s": "R",
+      "src": "SCMP"
+    },
+    {
+      "n": 48,
+      "x": "EU plastic waste burned in Adana; residents protest",
+      "s": "R",
+      "src": "PTS"
+    },
+    {
+      "n": 49,
+      "x": "Cameroon ex-separatists face an uncertain future",
+      "s": "R",
+      "src": "NEWS MEDIA HOUSE"
+    },
+    {
+      "n": 50,
+      "x": "Albanese defends minister after COP31 collapse",
+      "s": "R",
+      "src": "NEWS MEDIA HOUSE"
+    },
+    {
+      "n": 51,
+      "x": "US Army to detonate unstable chemicals in Iowa",
+      "s": "R",
+      "src": "NEWS MEDIA HOUSE"
+    },
+    {
+      "n": 52,
+      "x": "Protests at Sea-Tac after ICE detains father, daughter",
+      "s": "R",
+      "src": "FEEDCAST"
+    },
+    {
+      "n": 53,
+      "x": "Cowboys rout Titans 51-30, NFL's first 51-30 score",
+      "s": "C",
+      "src": "CBS SPORTS"
+    },
+    {
+      "n": 54,
+      "x": "Jokic's 202nd triple-double; Denver wins 151-145 OT",
+      "s": "C",
+      "src": "SPORTSNET"
+    },
+    {
+      "n": 55,
+      "x": "Kansas City Current win first NWSL title, 2-1",
+      "s": "C",
+      "src": "NWSL"
+    },
+    {
+      "n": 56,
+      "x": "Red Wings trade captain Larkin to Montreal",
+      "s": "C",
+      "src": "TSN"
+    },
+    {
+      "n": 57,
+      "x": "49ers beat Vikings 35-10 in Mexico City",
+      "s": "C",
+      "src": "CBS SPORTS"
+    },
+    {
+      "n": 58,
+      "x": "NASA fires RS-25 engine 200 seconds for Artemis",
+      "s": "C",
+      "src": "NASA"
+    },
+    {
+      "n": 59,
+      "x": "Jeweller Paolo Bulgari dies aged 89",
+      "s": "R",
+      "src": "GRAND HERALD"
+    }
+  ]
+}
